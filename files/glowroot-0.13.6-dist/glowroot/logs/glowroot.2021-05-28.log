@@ -1,0 +1,67 @@
+2021-05-28 08:09:42.095 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 08:09:42.109 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-28 08:09:42.144 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-28 08:09:49.564 INFO  org.glowroot - creating glowroot schema...
+2021-05-28 08:09:50.684 INFO  org.glowroot - glowroot schema created
+2021-05-28 08:09:51.556 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2021-05-28 08:15:38.077 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 08:15:38.081 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-28 08:15:38.083 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-28 08:15:43.440 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2021-05-28 08:21:28.248 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 08:21:28.256 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-28 08:21:28.264 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-28 08:21:38.035 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2021-05-28 08:26:14.285 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 08:26:14.313 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-28 08:26:14.317 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-28 08:26:23.381 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2021-05-28 08:28:42.252 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 08:28:42.255 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-28 08:28:42.257 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-28 08:28:47.820 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2021-05-28 08:36:42.652 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 08:36:42.662 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-28 08:36:42.664 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-28 08:36:49.692 INFO  org.glowroot - agent id: xwiki
+2021-05-28 08:36:55.731 WARN  o.g.agent.central.CentralConnection - unable to establish connection with the central collector http://glowroot-central:8181 (will keep trying...): java.net.ConnectException: Connection refused
+2021-05-28 08:37:40.471 INFO  org.glowroot - connected to the central collector http://glowroot-central:8181, version 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 08:37:40.570 INFO  o.g.a.c.DownstreamServiceObserver - re-established connection to the central collector
+2021-05-28 08:40:32.875 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 08:40:32.877 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-28 08:40:32.882 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-28 08:40:40.055 INFO  org.glowroot - agent id: xwiki
+2021-05-28 08:40:46.414 WARN  o.g.agent.central.CentralConnection - unable to establish connection with the central collector http://localhost:8181 (will keep trying...): java.net.ConnectException: Connection refused
+2021-05-28 08:49:04.379 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 08:49:04.382 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-28 08:49:04.385 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-28 08:49:09.898 INFO  org.glowroot - agent id: "xwiki"
+2021-05-28 08:49:09.907 ERROR o.g.agent.impl.BytecodeServiceImpl - Invalid collector.address (invalid port): "glowroot-central:8181"
+java.lang.IllegalStateException: Invalid collector.address (invalid port): "glowroot-central:8181"
+	at org.glowroot.agent.central.CentralConnection.parseCollectorAddress(CentralConnection.java:265)
+	at org.glowroot.agent.central.CentralConnection.<init>(CentralConnection.java:88)
+	at org.glowroot.agent.central.CentralCollector.<init>(CentralCollector.java:135)
+	at org.glowroot.agent.init.NonEmbeddedGlowrootAgentInit$1.run(NonEmbeddedGlowrootAgentInit.java:136)
+	at org.glowroot.agent.impl.BytecodeServiceImpl.enteringMainMethod(BytecodeServiceImpl.java:255)
+	at org.glowroot.agent.impl.BytecodeServiceImpl.enteringMainMethod(BytecodeServiceImpl.java:77)
+	at org.glowroot.agent.bytecode.api.Bytecode.enteringMainMethod(Bytecode.java:32)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java)
+2021-05-28 08:54:25.059 WARN  o.glowroot.agent.init.GaugeCollector - not storing a gauge collection because of an excessive backlog of 60 gauge collections already waiting to be stored (this warning will be logged at most once a minute)
+2021-05-28 08:55:25.130 WARN  o.glowroot.agent.init.GaugeCollector - not storing a gauge collection because of an excessive backlog of 60 gauge collections already waiting to be stored (this warning will be logged at most once a minute, 10 warnings were suppressed since it was last logged)
+2021-05-28 08:56:25.199 WARN  o.glowroot.agent.init.GaugeCollector - not storing a gauge collection because of an excessive backlog of 60 gauge collections already waiting to be stored (this warning will be logged at most once a minute, 11 warnings were suppressed since it was last logged)
+2021-05-28 08:57:25.236 WARN  o.glowroot.agent.init.GaugeCollector - not storing a gauge collection because of an excessive backlog of 60 gauge collections already waiting to be stored (this warning will be logged at most once a minute, 10 warnings were suppressed since it was last logged)
+2021-05-28 08:58:25.270 WARN  o.glowroot.agent.init.GaugeCollector - not storing a gauge collection because of an excessive backlog of 60 gauge collections already waiting to be stored (this warning will be logged at most once a minute, 11 warnings were suppressed since it was last logged)
+2021-05-28 08:59:25.297 WARN  o.glowroot.agent.init.GaugeCollector - not storing a gauge collection because of an excessive backlog of 60 gauge collections already waiting to be stored (this warning will be logged at most once a minute, 10 warnings were suppressed since it was last logged)
+2021-05-28 09:00:00.002 WARN  o.g.agent.impl.TransactionProcessor - not storing an aggregate because of an excessive backlog of 5 aggregates already waiting to be stored
+2021-05-28 09:00:25.331 WARN  o.glowroot.agent.init.GaugeCollector - not storing a gauge collection because of an excessive backlog of 60 gauge collections already waiting to be stored (this warning will be logged at most once a minute, 11 warnings were suppressed since it was last logged)
+2021-05-28 09:04:35.241 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 09:04:35.247 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-28 09:04:35.250 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-28 09:04:45.694 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2021-05-28 09:05:46.390 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 09:05:46.402 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-28 09:05:46.404 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-28 09:05:52.922 INFO  org.glowroot - agent id: xwiki
+2021-05-28 09:05:59.724 WARN  o.g.agent.central.CentralConnection - unable to establish connection with the central collector http://glowroot-central-server:8181 (will keep trying...): java.net.ConnectException: Connection refused
+2021-05-28 09:06:44.043 INFO  org.glowroot - connected to the central collector http://glowroot-central-server:8181, version 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-28 09:06:44.071 INFO  o.g.a.c.DownstreamServiceObserver - re-established connection to the central collector
