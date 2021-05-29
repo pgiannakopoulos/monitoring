@@ -1,0 +1,22 @@
+2021-05-29 09:00:23.432 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-29 09:00:23.441 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-29 09:00:23.446 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-29 09:00:28.688 INFO  org.glowroot - agent id: xwiki
+2021-05-29 09:00:34.771 WARN  o.g.agent.central.CentralConnection - unable to establish connection with the central collector http://glowroot-central-server:8181 (will keep trying...): java.net.ConnectException: Connection refused
+2021-05-29 09:01:19.781 INFO  org.glowroot - connected to the central collector http://glowroot-central-server:8181, version 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-29 09:01:19.969 INFO  o.g.a.c.DownstreamServiceObserver - re-established connection to the central collector
+2021-05-29 09:05:46.879 WARN  o.glowroot.agent.impl.TraceCollector - not storing a trace because of an excessive backlog of 150 traces already waiting to be stored (this warning will be logged at most once a minute)
+2021-05-29 10:12:40.465 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-29 10:12:40.468 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-29 10:12:40.470 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-29 10:12:46.706 INFO  org.glowroot - agent id: xwiki
+2021-05-29 10:12:49.231 WARN  o.g.agent.central.CentralConnection - unable to establish connection with the central collector http://glowroot-central-server:8181 (will keep trying...): java.net.ConnectException: Connection refused
+2021-05-29 10:13:33.483 INFO  org.glowroot - connected to the central collector http://glowroot-central-server:8181, version 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-29 10:13:33.520 INFO  o.g.a.c.DownstreamServiceObserver - re-established connection to the central collector
+2021-05-29 15:25:03.750 INFO  org.glowroot - Glowroot version: 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-29 15:25:03.753 INFO  org.glowroot - Java version: 11.0.11 (AdoptOpenJDK / Linux)
+2021-05-29 15:25:03.757 INFO  org.glowroot - Java args: --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -javaagent:/opt/agent/glowroot-0.13.6-dist/glowroot/glowroot.jar -Xmx1024m
+2021-05-29 15:25:08.663 INFO  org.glowroot - agent id: xwiki
+2021-05-29 15:25:15.712 WARN  o.g.agent.central.CentralConnection - unable to establish connection with the central collector http://glowroot-central-server:8181 (will keep trying...): java.net.ConnectException: Connection refused
+2021-05-29 15:26:00.433 INFO  org.glowroot - connected to the central collector http://glowroot-central-server:8181, version 0.13.6, built 2020-03-01 01:25:31 +0000
+2021-05-29 15:26:00.504 INFO  o.g.a.c.DownstreamServiceObserver - re-established connection to the central collector
