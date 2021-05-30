@@ -21,7 +21,7 @@ def plot(requests):
 	plt.title('Traffic')
 	plt.xlabel('samples')
 	plt.ylabel('number of requests')
-	plt.show()
+	plt.savefig('img/traffic.png')
 
 
 samples = 100
